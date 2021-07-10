@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:smile: *Python*
+⭐ _Python_hub
+
+❤️**Java**
+:thumbsup: __Java__
+
+_Python **and** Java_
